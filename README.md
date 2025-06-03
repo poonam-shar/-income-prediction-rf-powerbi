@@ -47,6 +47,10 @@ Occupation Trends: Prof-specialty and Exec-managerial roles dominate the >50K ca
 
 Income Distribution: Only 19.6% of individuals earn >50K.
 
+##  Dashboard Preview
+
+![Adult Income Dashboard](assets/income-dashboard.jpg)
+
 ## Tools & Technologies Used
 Python (Pandas, scikit-learn, matplotlib)
 
