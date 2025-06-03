@@ -1,4 +1,4 @@
-# Income Prediction & Segmentation Analysis (>50K)
+# Income Prediction & Segmentation Analysis 
 This project focuses on predicting whether an individual earns more than $50K annually using machine learning, and uncovering key insights through segmentation analysis with Power BI.
 
 ## Problem Statement
