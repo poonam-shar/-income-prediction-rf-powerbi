@@ -49,7 +49,7 @@ Income Distribution: Only 19.6% of individuals earn >50K.
 
 ##  Dashboard Preview
 
-![Adult Income Dashboard](assets/income-dashboard.jpg)
+![Adult Income Dashboard](assets/income-dashboard.jpeg)
 
 ## Tools & Technologies Used
 Python (Pandas, scikit-learn, matplotlib)
